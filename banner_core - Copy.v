@@ -54,6 +54,7 @@ input       	clk;
 input      		reset;
 
 input				din_ready;
+
 input				din_valid;
 input				din_startofpacket;
 input				din_endofpacket;
