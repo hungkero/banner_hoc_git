@@ -21,7 +21,7 @@
 //    Tao ra bo mat na cho kenh chroma key
 //		Output : avalon ST source 8 bit
 // ---------------------------------------------------------------------
-
+git 1 2
 module banner_core	
 					(		
 								clk,
@@ -54,7 +54,10 @@ input       	clk;
 input      		reset;
 
 input				din_ready;
+<<<<<<< HEAD
 
+=======
+>>>>>>> e2e76cdc40ac655a41b79f4ea89e2b8af390934b
 input				din_valid;
 input				din_startofpacket;
 input				din_endofpacket;
